@@ -1,0 +1,755 @@
+<places>
+<place city="Greater Noida" lat="28.4961111" lng="77.5358333"/>
+<place city="Noida" lat="28.0933333" lng="77.536667"/>
+<place city="Eureka" lat="79.983333" lng="-85.950000"/> 
+<place city="Longyearbyen" lat="78.216667" lng="15.566667"/> 
+<place city="Qaanaaq" lat="77.466667" lng="-69.233333"/> 
+<place city="Grise Fiord" lat="76.416667" lng="-82.883333"/> 
+<place city="Barrow" lat="71.300000" lng="-156.750000"/> 
+<place city="Hammerfest" lat="70.650000" lng="23.683333"/> 
+<place city="Deadhorse" lat="70.200000" lng="-148.500000"/> 
+<place city="Vadsø" lat="70.066667" lng="29.733333"/> 
+<place city="Tromsø" lat="69.666667" lng="18.933333"/> 
+<place city="Norilsk" lat="69.350000" lng="88.200000"/> 
+<place city="Murmansk" lat="68.966667" lng="33.066667"/> 
+<place city="Narvik" lat="68.416667" lng="17.566667"/> 
+<place city="Kiruna" lat="67.850000" lng="20.216667"/> 
+<place city="Utrecht" lat="52.050000" lng="5.60000"/> 		
+<place city="Islamabad" lat="33.50000" lng="73.04"/>
+<place city="Bodø" lat="67.300000" lng="14.550000"/> 
+<place city="Gällivare-Malmberget-Koskullskulle" lat="67.116667" lng="20.750000"/> 
+<place city="Kemijärvi" lat="66.700000" lng="27.433333"/> 
+<place city="Rovaniemi" lat="66.500000" lng="25.733333"/> 
+<place city="Ísafjörður" lat="66.066667" lng="-23.116667"/> 
+<place city="Kuusamo" lat="65.966667" lng="29.183333"/> 
+<place city="Tornio" lat="65.850000" lng="24.150000"/> 
+<place city="Boden" lat="65.833333" lng="21.716667"/> 
+<place city="Haparanda" lat="65.833333" lng="24.133333"/> 
+<place city="Kemi" lat="65.733333" lng="24.566667"/> 
+<place city="Akureyri" lat="65.683333" lng="-18.100000"/> 
+<place city="Luleå" lat="65.566667" lng="22.150000"/> 
+<place city="Piteå" lat="65.533333" lng="21.850000"/> 
+<place city="Pudasjärvi" lat="65.350000" lng="27.000000"/> 
+<place city="Oulu" lat="65.016667" lng="25.466667"/> 
+<place city="Skellefteå" lat="64.266667" lng="20.650000"/> 
+<place city="Fairbanks" lat="64.833333" lng="-147.716667"/> 
+<place city="Arkhangelsk" lat="64.533333" lng="40.533333"/> 
+<place city="Nuuk" lat="64.166667" lng="-51.716667"/> 
+<place city="Reykjavík" lat="64.133333" lng="-21.933333"/> 
+<place city="Umeå" lat="63.833333" lng="20.250000"/> 
+<place city="Iqaluit" lat="63.750000" lng="-68.516667"/> 
+<place city="Örnsköldsvik" lat="63.500000" lng="18.200000"/> 
+<place city="Trondheim" lat="63.416667" lng="10.383333"/> 
+<place city="Östersund" lat="63.300000" lng="14.083333"/> 
+<place city="Vaasa" lat="63.166667" lng="22.000000"/> 
+<place city="Kuopio" lat="62.883333" lng="27.666667"/> 
+<place city="Sundsvall" lat="62.666667" lng="17.550000"/> 
+<place city="Yellowknife" lat="62.450000" lng="-114.400000"/> 
+<place city="Jyväskylä" lat="62.233333" lng="25.733333"/> 
+<place city="Tórshavn Faroe" lat="62.000000" lng="-6.100000"/> 
+<place city="Tampere" lat="61.500000" lng="23.750000"/> 
+<place city="Anchorage" lat="61.216667" lng="-149.900000"/> 
+<place city="Lillehammer" lat="61.116667" lng="10.416667"/> 
+<place city="Lahti" lat="60.983333" lng="25.650000"/> 
+<place city="Whitehorse" lat="60.683333" lng="-135.133333"/> 
+<place city="Turku" lat="60.450000" lng="22.266667"/> 
+<place city="Bergen" lat="60.366667" lng="5.400000"/> 
+<place city="Vantaa" lat="60.283333" lng="25.033333"/> 
+<place city="Espoo" lat="60.200000" lng="24.650000"/> 
+<place city="Helsinki" lat="60.200000" lng="24.933333"/> 
+<place city="Saint Petersburg" lat="59.933333" lng="30.333333"/> 
+<place city="Oslo" lat="59.933333" lng="10.750000"/> 
+<place city="Uppsala" lat="59.850000" lng="17.633333"/> 
+<place city="Tallinn" lat="59.433333" lng="24.750000"/> 
+<place city="Stockholm" lat="59.350000" lng="18.066667"/> 
+<place city="Sarpsborg" lat="59.283333" lng="11.100000"/> 
+<place city="Norrköping" lat="58.600000" lng="16.200000"/> 
+<place city="Tartu" lat="58.383333" lng="26.716667"/> 
+<place city="Juneau" lat="58.383333" lng="-134.183333"/> 
+<place city="Kristiansand" lat="58.166667" lng="08.033333"/> 
+<place city="Inverness" lat="57.783333" lng="-04.383333"/> 
+<place city="Gothenburg" lat="57.700000" lng="11.916667"/> 
+<place city="Yaroslavl" lat="57.616667" lng="39.850000"/> 
+<place city="Aberdeen" lat="57.250000" lng="-02.183333"/> 
+<place city="Riga" lat="56.966667" lng="24.133333"/> 
+<place city="Yekaterinburg" lat="56.833333" lng="60.583333"/> 
+<place city="Izhevsk" lat="56.833333" lng="53.183333"/> 
+<place city="Fort McMurray" lat="56.733333" lng="-111.383333"/> 
+<place city="Nizhny Novgorod" lat="56.333333" lng="44.000000"/> 
+<place city="Bratsk" lat="56.166667" lng="101.616667"/> 
+<place city="Aarhus" lat="56.150000" lng="10.200000"/> 
+<place city="Krasnoyarsk" lat="56.016667" lng="93.066667"/> 
+<place city="Edinburgh" lat="55.950000" lng="-03.200000"/> 
+<place city="Glasgow" lat="55.866667" lng="-04.250000"/> 
+<place city="Kazan" lat="55.783333" lng="49.166667"/> 
+<place city="Moscow" lat="55.750000" lng="37.616667"/> 
+<place city="Copenhagen" lat="55.716667" lng="12.566667"/> 
+<place city="Malmö" lat="55.583333" lng="13.033333"/> 
+<place city="Esbjerg" lat="55.533333" lng="08.566667"/> 
+<place city="Odense" lat="55.383333" lng="10.383333"/> 
+<place city="Grande Prairie" lat="55.166667" lng="-118.800000"/> 
+<place city="Chelyabinsk" lat="55.150000" lng="61.366667"/> 
+<place city="Novosibirsk" lat="55.016667" lng="82.933333"/> 
+<place city="Omsk" lat="54.983333" lng="73.366667"/> 
+<place city="Newcastle upon" lat="54.966667" lng="-01.600000"/> 
+<place city="Ufa" lat="54.750000" lng="55.966667"/> 
+<place city="Vilnius" lat="54.683333" lng="25.283333"/> 
+<place city="Belfast" lat="54.600000" lng="-5.933333"/> 
+<place city="Gdynia" lat="54.500000" lng="18.533333"/> 
+<place city="Gdańsk" lat="54.350000" lng="18.666667"/> 
+<place city="Kiel" lat="54.333333" lng="10.133333"/> 
+<place city="Minsk" lat="53.916667" lng="27.550000"/> 
+<place city="Leeds" lat="53.800000" lng="-1.550000"/> 
+<place city="Hamburg" lat="53.566667" lng="10.033333"/> 
+<place city="Edmonton" lat="53.566667" lng="-113.516667"/> 
+<place city="Manchester" lat="53.483333" lng="-02.250000"/> 
+<place city="Tolyatti" lat="53.483333" lng="49.516667"/> 
+<place city="Liverpool" lat="53.416667" lng="-02.983333"/> 
+<place city="Sheffield" lat="53.383333" lng="-01.466667"/> 
+<place city="Dublin" lat="53.350000" lng="-6.266667"/> 
+<place city="Samara" lat="53.233333" lng="50.166667"/> 
+<place city="Groningen" lat="53.216667" lng="34.000000"/> 
+<place city="Bremen" lat="53.066667" lng="8.816667"/> 
+<place city="Petropavlovsk-Kamchatsky" lat="53.016667" lng="158.650000"/> 
+<place city="Nottingham" lat="52.950000" lng="-01.133333"/> 
+<place city="Norwich" lat="52.050000" lng="01.483333"/> 
+<place city="Leicester" lat="52.050000" lng="-1.233333"/> 
+<place city="Peterborough" lat="52.583333" lng="-0.250000"/> 
+<place city="Berlin" lat="52.516667" lng="13.416667"/> 
+<place city="Birmingham" lat="52.483333" lng="-01.900000"/> 
+<place city="Coventry" lat="52.400000" lng="-01.500000"/> 
+<place city="Amsterdam" lat="52.366667" lng="04.900000"/> 
+<place city="Haarlem" lat="52.366667" lng="04.633333"/> 
+<place city="Irkutsk" lat="52.283333" lng="104.266667"/> 
+<place city="Warsaw" lat="52.233333" lng="21.016667"/> 
+<place city="Enschede" lat="52.216667" lng="53.000000"/> 
+<place city="Saskatoon" lat="52.216667" lng="-106.083333"/> 
+<place city="Cambridge" lat="52.200000" lng="00.116667"/> 
+<place city="Leiden" lat="52.150000" lng="04.500000"/> 
+<place city="The Hague" lat="52.066667" lng="04.300000"/> 
+<place city="Gloucester" lat="51.450000" lng="-02.400000"/> 
+<place city="Rotterdam" lat="51.933333" lng="04.466667"/> 
+<place city="Oxford" lat="51.750000" lng="-01.250000"/> 
+<place city="Voronezh" lat="51.666667" lng="39.200000"/> 
+<place city="Bath" lat="51.633333" lng="-2.600000"/> 
+<place city="Swansea" lat="51.616667" lng="-3.950000"/> 
+<place city="Saratov" lat="51.533333" lng="46.016667"/> 
+<place city="London" lat="51.500000" lng="-0.133333"/> 
+<place city="Cardiff" lat="51.483333" lng="-3.183333"/> 
+<place city="Bristol" lat="51.450000" lng="-2.600000"/> 
+<place city="Antwerp" lat="51.216667" lng="04.400000"/> 
+<place city="Astana" lat="51.166667" lng="71.433333"/> 
+<place city="Calgary" lat="51.050000" lng="-114.050000"/> 
+<place city="Ghent" lat="51.050000" lng="03.733333"/> 
+<place city="Southampton" lat="51.000000" lng="-01.066667"/> 
+<place city="Brussels" lat="50.850000" lng="04.350000"/> 
+<place city="Maastricht" lat="50.850000" lng="05.683333"/> 
+<place city="Portsmouth" lat="50.816667" lng="-01.083333"/> 
+<place city="Brighton and" lat="50.816667" lng="-00.150000"/> 
+<place city="Regina" lat="50.450000" lng="-104.016667"/> 
+<place city="Exeter" lat="50.716667" lng="-3.533333"/> 
+<place city="Kamloops" lat="50.683333" lng="-120.333333"/> 
+<place city="Kiev" lat="50.450000" lng="30.500000"/> 
+<place city="Plymouth" lat="50.366667" lng="-4.133333"/> 
+<place city="Frankfurt am" lat="50.116667" lng="8.683333"/> 
+<place city="Prague" lat="50.083333" lng="14.433333"/> 
+<place city="Kraków" lat="50.050000" lng="19.933333"/> 
+<place city="Winnipeg" lat="49.900000" lng="-97.133333"/> 
+<place city="Lviv" lat="49.850000" lng="24.016667"/> 
+<place city="Luxembourg" lat="49.616667" lng="6.133333"/> 
+<place city="Kelowna" lat="49.533333" lng="-119.300000"/> 
+<place city="Vancouver" lat="49.266667" lng="-123.116667"/> 
+<place city="Paris" lat="48.866667" lng="2.333333"/> 
+<place city="Volgograd" lat="48.700000" lng="44.516667"/> 
+<place city="Strasbourg" lat="48.966667" lng="7.233333"/> 
+<place city="Victoria" lat="48.416667" lng="-123.366667"/> 
+<place city="Thunder Bay" lat="48.366667" lng="-89.316667"/> 
+<place city="Vienna" lat="48.216667" lng="16.366667"/> 
+<place city="Bratislava" lat="48.150000" lng="17.116667"/> 
+<place city="Munich" lat="48.133333" lng="11.566667"/> 
+<place city="Ulan Bator" lat="47.916667" lng="106.916667"/> 
+<place city="Seattle" lat="47.600000" lng="-122.316667"/> 
+<place city="Basel" lat="47.566667" lng="07.600000"/> 
+<place city="St. John's" lat="47.550000" lng="-52.666667"/> 
+<place city="Budapest" lat="47.466667" lng="19.050000"/> 
+<place city="Zürich" lat="47.366667" lng="08.550000"/> 
+<place city="Rostov-on-Don" lat="47.233333" lng="39.700000"/> 
+<place city="Vaduz" lat="47.133333" lng="09.516667"/> 
+<place city="Chişinău" lat="47.000000" lng="28.916667"/> 
+<place city="Bern" lat="46.950000" lng="07.450000"/> 
+<place city="Tiraspol" lat="46.850000" lng="-29.633333"/> 
+<place city="Quebec City" lat="46.816667" lng="-71.216667"/> 
+<place city="Bismarck" lat="46.800000" lng="-100.766667"/> 
+<place city="Cluj-Napoca" lat="46.766667" lng="23.583333"/> 
+<place city="Sudbury" lat="46.616667" lng="-80.800000"/> 
+<place city="Helena" lat="46.583333" lng="-112.016667"/> 
+<place city="Sault Ste." lat="46.533333" lng="-84.333333"/> 
+<place city="Lausanne" lat="46.516667" lng="6.633333"/> 
+<place city="Odessa" lat="46.466667" lng="30.733333"/> 
+<place city="North Bay" lat="46.366667" lng="-79.416667"/> 
+<place city="Charlottetown" lat="46.233333" lng="-63.133333"/> 
+<place city="Geneva" lat="46.200000" lng="6.150000"/> 
+<place city="Moncton" lat="46.133333" lng="-64.766667"/> 
+<place city="Ljubljana" lat="46.050000" lng="14.500000"/> 
+<place city="Fredericton" lat="45.950000" lng="-66.666667"/> 
+<place city="Zagreb" lat="45.816667" lng="15.983333"/> 
+<place city="Lyon" lat="45.766667" lng="4.833333"/> 
+<place city="Harbin" lat="45.750000" lng="126.683333"/> 
+<place city="Portland" lat="45.516667" lng="-122.683333"/> 
+<place city="Montreal" lat="45.516667" lng="-73.550000"/> 
+<place city="Milan" lat="45.466667" lng="9.166667"/> 
+<place city="Venice" lat="45.433333" lng="12.316667"/> 
+<place city="Ottawa" lat="45.433333" lng="-75.683333"/> 
+<place city="Saint John" lat="45.283333" lng="-66.066667"/> 
+<place city="Turin" lat="45.066667" lng="7.666667"/> 
+<place city="Krasnodar" lat="45.033333" lng="38.966667"/> 
+<place city="Minneapolis" lat="44.983333" lng="-93.250000"/> 
+<place city="Simferopol" lat="44.950000" lng="34.100000"/> 
+<place city="Bordeaux" lat="44.833333" lng="-00.583333"/> 
+<place city="Belgrade" lat="44.800000" lng="20.466667"/> 
+<place city="Šabac" lat="44.750000" lng="19.683333"/> 
+<place city="Halifax" lat="44.650000" lng="-63.566667"/> 
+<place city="Bucharest" lat="44.416667" lng="26.100000"/> 
+<place city="Pierre" lat="44.366667" lng="-100.333333"/> 
+<place city="Augusta" lat="44.300000" lng="-69.766667"/> 
+<place city="Montpelier" lat="44.250000" lng="-72.566667"/> 
+<place city="San Marino" lat="43.933333" lng="12.433333"/> 
+<place city="Sarajevo" lat="43.866667" lng="18.416667"/> 
+<place city="Changchun" lat="43.866667" lng="125.316667"/> 
+<place city="Yarmouth" lat="43.833333" lng="-66.833333"/> 
+<place city="Florence" lat="43.766667" lng="11.250000"/> 
+<place city="Monaco" lat="43.733333" lng="24.000000"/> 
+<place city="Nice" lat="43.700000" lng="7.266667"/> 
+<place city="Toronto" lat="43.700000" lng="-79.383333"/> 
+<place city="Boise" lat="43.600000" lng="-116.200000"/> 
+<place city="Marseille" lat="43.300000" lng="5.366667"/> 
+<place city="Almaty" lat="43.283333" lng="76.900000"/> 
+<place city="Bilbao" lat="43.250000" lng="-2.916667"/> 
+<place city="Concord" lat="43.200000" lng="71.533333"/> 
+<place city="Rochester" lat="43.150000" lng="77.600000"/> 
+<place city="Vladivostok" lat="43.133333" lng="131.900000"/> 
+<place city="Sapporo" lat="43.066667" lng="141.350000"/> 
+<place city="Milwaukee" lat="43.050000" lng="-87.950000"/> 
+<place city="Sukhumi" lat="43.000000" lng="41.016667"/> 
+<place city="Buffalo" lat="42.900000" lng="-78.850000"/> 
+<place city="Bishkek" lat="42.866667" lng="74.616667"/> 
+<place city="Sofia" lat="42.700000" lng="23.333333"/> 
+<place city="Pristina" lat="42.666667" lng="21.166667"/> 
+<place city="Andorra la Vella" lat="42.500000" lng="1.500000"/> 
+<place city="Podgorica" lat="42.466667" lng="19.283333"/> 
+<place city="Nukus" lat="42.466667" lng="59.600000"/> 
+<place city="Boston" lat="42.350000" lng="-71.066667"/> 
+<place city="Detroit" lat="42.333333" lng="-83.050000"/> 
+<place city="Windsor" lat="42.283333" lng="-83.000000"/> 
+<place city="Tskhinvali" lat="42.233333" lng="43.966667"/> 
+<place city="Rome" lat="41.900000" lng="12.483333"/> 
+<place city="Vatican City" lat="41.900000" lng="12.450000"/> 
+<place city="Chicago" lat="41.833333" lng="-87.650000"/> 
+<place city="Providence" lat="41.816667" lng="-71.416667"/> 
+<place city="Chongjin" lat="41.800000" lng="129.783333"/> 
+<place city="Shenyang" lat="41.800000" lng="123.416667"/> 
+<place city="Hartford" lat="41.750000" lng="-72.683333"/> 
+<place city="Tbilisi" lat="41.716667" lng="44.783333"/> 
+<place city="Zaragoza" lat="41.650000" lng="-00.883333"/> 
+<place city="Namangan" lat="41.633333" lng="71.966667"/> 
+<place city="Des Moines" lat="41.583333" lng="-93.616667"/> 
+<place city="Cleveland" lat="41.483333" lng="-81.666667"/> 
+<place city="Barcelona" lat="41.383333" lng="2.000000"/> 
+<place city="Tirana" lat="41.333333" lng="19.816667"/> 
+<place city="Tashkent" lat="41.266667" lng="69.216667"/> 
+<place city="Porto" lat="41.150000" lng="-8.633333"/> 
+<place city="Cheyenne" lat="41.133333" lng="-104.800000"/> 
+<place city="Istanbul" lat="41.050000" lng="28.633333"/> 
+<place city="Baku" lat="41.033333" lng="49.883333"/> 
+<place city="Naples" lat="40.833333" lng="14.250000"/> 
+<place city="Lincoln" lat="40.800000" lng="-96.666667"/> 
+<place city="Salt Lake" lat="40.750000" lng="-111.883333"/> 
+<place city="New York" lat="40.716667" lng="-74.000000"/> 
+<place city="United Nations" lat="39.0007" lng="-74.000000"/> 
+<place city="Thessaloniki" lat="40.633333" lng="22.950000"/> 
+<place city="Pittsburgh" lat="40.450000" lng="-80.000000"/> 
+<place city="Madrid" lat="40.383333" lng="-3.716667"/> 
+<place city="Bursa" lat="40.333333" lng="29.133333"/> 
+<place city="Trenton" lat="40.216667" lng="-74.750000"/> 
+<place city="Yerevan" lat="40.166667" lng="44.516667"/> 
+<place city="Columbus" lat="39.983333" lng="-82.983333"/> 
+<place city="Philadelphia" lat="39.950000" lng="-75.166667"/> 
+<place city="Beijing" lat="39.900000" lng="116.383333"/> 
+<place city="Ankara" lat="39.866667" lng="32.866667"/> 
+<place city="Indianapolis" lat="39.766667" lng="-86.150000"/> 
+<place city="Denver" lat="39.750000" lng="-104.983333"/> 
+<place city="Palma" lat="39.566667" lng="02.650000"/> 
+<place city="Reno" lat="39.516667" lng="-119.816667"/> 
+<place city="Valencia" lat="39.483333" lng="-00.366667"/> 
+<place city="Baltimore" lat="39.283333" lng="-76.616667"/> 
+<place city="Cagliari" lat="39.233333" lng="09.116667"/> 
+<place city="Dover" lat="39.150000" lng="-75.516667"/> 
+<place city="Wonsan" lat="39.133333" lng="127.433333"/> 
+<place city="Cincinnati" lat="39.133333" lng="-84.500000"/> 
+<place city="Tianjin" lat="39.133333" lng="117.183333"/> 
+<place city="Kansas City" lat="39.100000" lng="-94.583333"/> 
+<place city="Pyongyang" lat="39.033333" lng="125.750000"/> 
+<place city="Washington" lat="38.900000" lng="-77.033333"/> 
+<place city="Lisbon" lat="38.000000" lng="-9.000000"/> 
+<place city="St. Louis" lat="38.650000" lng="-90.216667"/> 
+<place city="Dushanbe" lat="38.533333" lng="68.783333"/> 
+<place city="Halkida" lat="38.466667" lng="23.600000"/> 
+<place city="Charleston" lat="38.333333" lng="-81.633333"/> 
+<place city="Louisville" lat="38.250000" lng="-85.766667"/> 
+<place city="Messina" lat="38.183333" lng="15.550000"/> 
+<place city="Palermo" lat="38.116667" lng="13.366667"/> 
+<place city="Athens" lat="38.000000" lng="23.716667"/> 
+<place city="Ashgabat" lat="37.966667" lng="58.333333"/> 
+<place city="Kaesong" lat="37.966667" lng="126.550000"/> 
+<place city="Konya" lat="37.866667" lng="32.483333"/> 
+<place city="Adana" lat="37.800000" lng="35.950000"/> 
+<place city="San Francisco" lat="37.766667" lng="-122.433333"/> 
+<place city="Wichita" lat="37.683333" lng="-97.333333"/> 
+<place city="Seoul" lat="37.550000" lng="126.983333"/> 
+<place city="Catania" lat="37.500000" lng="15.083333"/> 
+<place city="Sevilla" lat="37.383333" lng="-5.983333"/> 
+<place city="Springfield" lat="37.200000" lng="-93.283333"/> 
+<place city="Virginia Beach" lat="36.850000" lng="-75.983333"/> 
+<place city="Algiers" lat="36.783333" lng="3.066667"/> 
+<place city="Mosul" lat="36.366667" lng="43.116667"/> 
+<place city="Mashhad" lat="36.300000" lng="59.616667"/> 
+<place city="Las Vegas" lat="36.183333" lng="-115.216667"/> 
+<place city="Gibraltar" lat="36.133333" lng="-5.350000"/> 
+<place city="Tunis" lat="36.133333" lng="10.283333"/> 
+<place city="Tulsa" lat="36.116667" lng="-95.933333"/> 
+<place city="Qingdao" lat="36.083333" lng="120.333333"/> 
+<place city="Nashville" lat="36.000000" lng="-86.783333"/> 
+<place city="Valletta" lat="35.900000" lng="14.516667"/> 
+<place city="Tehran" lat="35.700000" lng="51.416667"/> 
+<place city="Tokyo" lat="35.683333" lng="139.766667"/> 
+<place city="Oklahoma City" lat="35.483333" lng="-97.533333"/> 
+<place city="Yokohama" lat="35.433333" lng="139.633333"/> 
+<place city="Heraklion" lat="35.333333" lng="25.133333"/> 
+<place city="Charlotte" lat="35.233333" lng="-80.833333"/> 
+<place city="Memphis" lat="35.116667" lng="-89.966667"/> 
+<place city="Nagoya" lat="35.116667" lng="136.933333"/> 
+<place city="Albuquerque" lat="35.100000" lng="-6.583333"/> 
+<place city="Latakia" lat="35.516667" lng="35.783333"/> 
+<place city="Kawasaki" lat="35.500000" lng="139.750000"/> 
+<place city="Kirkuk" lat="35.466667" lng="44.400000"/> 
+<place city="Nicosia" lat="35.166667" lng="33.350000"/> 
+<place city="Busan" lat="35.100000" lng="129.033333"/> 
+<place city="Kyoto" lat="35.016667" lng="135.750000"/> 
+<place city="Zhengzhou" lat="34.750000" lng="113.633333"/> 
+<place city="Sfax" lat="34.733333" lng="10.766667"/> 
+<place city="Little Rock" lat="34.733333" lng="-92.316667"/> 
+<place city="Kōbe" lat="34.700000" lng="135.150000"/> 
+<place city="Osaka" lat="34.700000" lng="135.500000"/> 
+<place city="Kabul" lat="34.516667" lng="69.183333"/> 
+<place city="Hiroshima" lat="34.383333" lng="132.450000"/> 
+<place city="Srinagar" lat="34.083333" lng="74.783333"/> 
+<place city="Los Angeles" lat="34.050000" lng="-118.250000"/> 
+<place city="Rabat" lat="34.033333" lng="-6.833333"/> 
+<place city="Columbia" lat="34.000000" lng="-81.033333"/> 
+<place city="Riverside" lat="33.933333" lng="-117.383333"/> 
+<place city="Beirut" lat="33.883333" lng="35.516667"/> 
+<place city="Atlanta" lat="33.750000" lng="-84.383333"/> 
+<place city=" " lat="33.716667" lng="73.066667"/> 
+<place city="Fukuoka" lat="33.583333" lng="130.400000"/> 
+<place city="Phoenix" lat="33.533333" lng="-112.083333"/> 
+<place city="Casablanca" lat="33.533333" lng="-7.583333"/> 
+<place city="Birmingham" lat="33.516667" lng="-86.816667"/> 
+<place city="Damascus" lat="33.500000" lng="36.300000"/> 
+<place city="Baghdad" lat="33.333333" lng="44.433333"/> 
+<place city="Tripoli" lat="32.900000" lng="13.183333"/> 
+<place city="Dallas" lat="32.766667" lng="-96.800000"/> 
+<place city="San Diego" lat="32.716667" lng="-117.166667"/> 
+<place city="Mexicali" lat="32.666667" lng="-115.466667"/> 
+<place city="Isfahan" lat="32.633333" lng="51.483333"/> 
+<place city="Tijuana" lat="32.516667" lng="-117.033333"/> 
+<place city="Hamilton" lat="32.300000" lng="-64.783333"/> 
+<place city="Jackson" lat="32.283333" lng="-90.183333"/> 
+<place city="Benghazi" lat="32.116667" lng="20.066667"/> 
+<place city="Tel Aviv" lat="32.083333" lng="34.800000"/> 
+<place city="Nanjing" lat="32.050000" lng="118.766667"/> 
+<place city="Amman" lat="31.950000" lng="35.933333"/> 
+<place city="Ciudad Juárez" lat="31.800000" lng="-106.633333"/> 
+<place city="Ensenada" lat="31.783333" lng="-116.600000"/> 
+<place city="Jerusalem" lat="31.766667" lng="35.233333"/> 
+<place city="Amritsar" lat="31.633333" lng="74.850000"/> 
+<place city="Kandahar" lat="31.616667" lng="65.716667"/> 
+<place city="Lahore" lat="31.550000" lng="74.333333"/> 
+<place city="Gaza" lat="31.516667" lng="34.450000"/> 
+<place city="Alexandria" lat="31.200000" lng="29.916667"/> 
+<place city="Shanghai" lat="31.166667" lng="121.466667"/> 
+<place city=" " lat="31.133333" lng="-8.000000"/> 
+<place city="Shimla" lat="31.100000" lng="77.166667"/> 
+<place city="Chengdu" lat="30.650000" lng="104.066667"/> 
+<place city="Wuhan" lat="30.566667" lng="114.266667"/> 
+<place city="Jacksonville" lat="30.316667" lng="-81.666667"/> 
+<place city="Austin" lat="30.300000" lng="-97.750000"/> 
+<place city="Cairo" lat="30.050000" lng="31.366667"/> 
+<place city="Suez" lat="29.966667" lng="32.550000"/> 
+<place city="New Orleans" lat="29.966667" lng="-90.066667"/> 
+<place city="Hermosillo" lat="29.916667" lng="-110.950000"/> 
+<place city="Houston" lat="29.750000" lng="-95.366667"/> 
+<place city="Lhasa" lat="29.650000" lng="91.116667"/> 
+<place city="Eilat" lat="29.550000" lng="34.950000"/> 
+<place city="Chongqing" lat="29.550000" lng="6.500000"/> 
+<place city="San Antonio" lat="29.533333" lng="-98.466667"/> 
+<place city="Kuwait City" lat="29.366667" lng="47.966667"/> 
+<place city="New Delhi" lat="28.633333" lng="77.216667"/> 
+<place city="Chihuahua" lat="28.633333" lng="-6.083333"/> 
+<place city="Santa Cruz" lat="28.466667" lng="-16.250000"/> 
+<place city="Orlando" lat="28.416667" lng="-81.316667"/> 
+<place city="Las Palmas" lat="28.150000" lng="-15.480000"/> 
+<place city="Tampa" lat="27.966667" lng="-82.450000"/> 
+<place city="Kathmandu" lat="27.716667" lng="85.366667"/> 
+<place city="Dibrugarh" lat="27.483333" lng="94.916667"/> 
+<place city="Thimphu" lat="27.466667" lng="89.633333"/> 
+<place city=" " lat="27.166667" lng="78.016667"/> 
+<place city="El Aaiún" lat="27.150000" lng="-13.200000"/> 
+<place city="Sabha" lat="27.033333" lng="14.433333"/> 
+<place city="Jaipur" lat="26.933333" lng="75.816667"/> 
+<place city="Siliguri" lat="26.733333" lng="88.433333"/> 
+<place city="Tezpur" lat="26.666667" lng="92.750000"/> 
+<place city="Okinawa" lat="26.333333" lng="127.800000"/> 
+<place city="Manama" lat="26.216667" lng="50.583333"/> 
+<place city="Guwahati" lat="26.166667" lng="91.750000"/> 
+<place city="Miami" lat="25.783333" lng="-80.216667"/> 
+<place city="Monterrey" lat="25.666667" lng="-100.300000"/> 
+<place city="Torreón" lat="25.533333" lng="-3.433333"/> 
+<place city="Kulpahar" lat="25.316667" lng="79.633333"/> 
+<place city="Doha" lat="25.283333" lng="51.533333"/> 
+<place city="Dubai" lat="25.266667" lng="55.333333"/> 
+<place city="Culiacán" lat="25.233333" lng="-107.833333"/> 
+<place city="Nassau" lat="25.050000" lng="-77.333333"/> 
+<place city="Taipei" lat="25.033333" lng="121.633333"/> 
+<place city="Riyadh" lat="24.716667" lng="46.716667"/> 
+<place city="Key West" lat="24.550000" lng="-81.783333"/> 
+<place city="Abu Dhabi" lat="24.466667" lng="54.366667"/> 
+<place city="Karachi" lat="24.133333" lng="67.016667"/> 
+<place city="Dhaka" lat="23.700000" lng="90.383333"/> 
+<place city="Muscat" lat="23.616667" lng="58.600000"/> 
+<place city="Agartala" lat="23.500000" lng="91.200000"/> 
+<place city="Guangzhou" lat="23.333333" lng="113.500000"/> 
+<place city="Havana" lat="23.116667" lng="-82.383333"/> 
+<place city="Ahmedabad" lat="23.016667" lng="72.566667"/> 
+<place city="Tainan City" lat="22.983333" lng="120.183333"/> 
+<place city="Kaohsiung" lat="22.633333" lng="120.266667"/> 
+<place city="Kolkata" lat="22.566667" lng="88.350000"/> 
+<place city="Shenzhen" lat="22.550000" lng="114.100000"/> 
+<place city="Tampico" lat="22.366667" lng="-97.416667"/> 
+<place city="Chittagong" lat="22.366667" lng="91.800000"/> 
+<place city="Hong Kong" lat="22.283333" lng="114.133333"/> 
+<place city="San Luis" lat="22.266667" lng="-0.633333"/> 
+<place city="Macau" lat="22.166667" lng="113.550000"/> 
+<place city="Aguascalientes" lat="21.850000" lng="-102.300000"/> 
+<place city="Jeddah" lat="21.833333" lng="39.266667"/> 
+<place city="Mecca" lat="21.416667" lng="39.816667"/> 
+<place city="Honolulu" lat="21.300000" lng="-157.833333"/> 
+<place city="Cancún" lat="21.166667" lng="-86.833333"/> 
+<place city="León" lat="21.116667" lng="-1.683333"/> 
+<place city="Nagpur" lat="21.083333" lng="79.050000"/> 
+<place city="Hanoi" lat="21.033333" lng="105.850000"/> 
+<place city="Mérida" lat="20.966667" lng="-89.616667"/> 
+<place city="Guadalajara" lat="20.666667" lng="-103.350000"/> 
+<place city="Puerto Vallarta" lat="20.666667" lng="-105.266667"/> 
+<place city="Querétaro" lat="20.600000" lng="-0.383333"/> 
+<place city="Santiago de" lat="20.016667" lng="-.800000"/> 
+<place city="Naypyidaw" lat="19.750000" lng="96.100000"/> 
+<place city="Mexico City" lat="19.683333" lng="-96.216667"/> 
+<place city="George Town" lat="19.300000" lng="-81.366667"/> 
+<place city="Veracruz" lat="19.183333" lng="-96.133333"/> 
+<place city="Puebla" lat="19.083333" lng="-98.366667"/> 
+<place city="Mumbai" lat="18.966667" lng="72.816667"/> 
+<place city="Chiang Mai" lat="18.783333" lng="98.983333"/> 
+<place city="Port-au-Prince" lat="18.533333" lng="-72.333333"/> 
+<place city="Santo Domingo" lat="18.500000" lng="-69.983333"/> 
+<place city="San Juan" lat="18.483333" lng="-66.133333"/> 
+<place city="Nouakchott" lat="18.100000" lng="-.250000"/> 
+<place city="Kingston" lat="17.983333" lng="-76.800000"/> 
+<place city="Vientiane" lat="17.966667" lng="102.600000"/> 
+<place city="Belize City" lat="17.500000" lng="-88.183333"/> 
+<place city="Udon Thani" lat="17.416667" lng="102.750000"/> 
+<place city="Hyderabad" lat="17.366667" lng="78.483333"/> 
+<place city="Basseterre" lat="17.300000" lng="-62.733333"/> 
+<place city="Belmopan" lat="17.266667" lng="-88.766667"/> 
+<place city="St. John's" lat="17.116667" lng="-61.850000"/> 
+<place city="Acapulco" lat="16.833333" lng="-99.916667"/> 
+<place city="Timbuktu" lat="16.766667" lng="-3.000000"/> 
+<place city="Yangon" lat="16.800000" lng="96.150000"/> 
+<place city="Khon Kaen" lat="16.433333" lng="102.833333"/> 
+<place city="Khartoum" lat="15.566667" lng="33.600000"/> 
+<place city="Roseau" lat="15.500000" lng="-61.650000"/> 
+<place city="San‘a’" lat="15.350000" lng="44.200000"/> 
+<place city="Asmara" lat="15.333333" lng="38.933333"/> 
+<place city="Saipan" lat="15.183333" lng="145.750000"/> 
+<place city="Nakhon Ratchasima" lat="14.966667" lng="102.100000"/> 
+<place city="Praia" lat="14.916667" lng="-23.516667"/> 
+<place city="Tapachula" lat="14.866667" lng="-92.266667"/> 
+<place city="Dakar" lat="14.666667" lng="-17.416667"/> 
+<place city="Guatemala City" lat="14.633333" lng="-90.550000"/> 
+<place city="Quezon City" lat="14.633333" lng="121.033333"/> 
+<place city="Manila" lat="14.600000" lng="120.983333"/> 
+<place city="Makati City" lat="14.550000" lng="121.033333"/> 
+<place city="Ayutthaya" lat="14.333333" lng="100.566667"/> 
+<place city="Tegucigalpa" lat="14.083333" lng="-87.216667"/> 
+<place city="Castries" lat="14.016667" lng="-60.983333"/> 
+<place city="Bangkok" lat="13.750000" lng="100.516667"/> 
+<place city="San Salvador" lat="13.683333" lng="-89.183333"/> 
+<place city="Niamey" lat="13.516667" lng="2.100000"/> 
+<place city="Dededo" lat="13.516667" lng="144.833333"/> 
+<place city="Banjul" lat="13.450000" lng="16.566667"/> 
+<place city="Serekunda" lat="13.433333" lng="16.666667"/> 
+<place city="Kingstown" lat="13.166667" lng="-.233333"/> 
+<place city="Chennai" lat="13.150000" lng="80.283333"/> 
+<place city="Bridgetown" lat="13.116667" lng="-59.616667"/> 
+<place city="Bangalore" lat="12.966667" lng="77.583333"/> 
+<place city="Pattaya City" lat="12.933333" lng="100.883333"/> 
+<place city="St. George's" lat="12.500000" lng="-.750000"/> 
+<place city="Bamako" lat="12.650000" lng="-08.000000"/> 
+<place city="Chinandega" lat="12.616667" lng="-87.150000"/> 
+<place city="Ouagadougou" lat="12.350000" lng="-1.533333"/> 
+<place city="Managua" lat="12.133333" lng="-86.266667"/> 
+<place city="N'Djamena" lat="12.100000" lng="-15.050000"/> 
+<place city="Kano" lat="12.000000" lng="08.516667"/> 
+<place city="Bissau" lat="11.850000" lng="-15.566667"/> 
+<place city="Djibouti" lat="11.600000" lng="43.166667"/> 
+<place city="Phnom Penh" lat="11.550000" lng="104.916667"/> 
+<place city="Bobo-Dioulasso" lat="11.183333" lng="-4.283333"/> 
+<place city="Maracaibo" lat="10.000000" lng="-.000000"/> 
+<place city="Ho Chi Minh" lat="10.766667" lng="106.683333"/> 
+<place city="Iloilo City" lat="10.683333" lng="122.550000"/> 
+<place city="Port of" lat="10.666667" lng="-61.516667"/> 
+<place city="Liberia" lat="10.633333" lng="-85.433333"/> 
+<place city="Caracas" lat="10.000000" lng="-.000000"/> 
+<place city="Maracay" lat="10.000000" lng="-.000000"/> 
+<place city="San Fernando" lat="10.283333" lng="-61.466667"/> 
+<place city="Cebu City" lat="10.283333" lng="123.900000"/> 
+<place city="Alajuela" lat="10.016667" lng="-84.216667"/> 
+<place city="Limon" lat="9.983333" lng="-83.383333"/> 
+<place city="Puntarenas" lat="9.966667" lng="-84.400000"/> 
+<place city="San José" lat="9.933333" lng="-84.400000"/> 
+<place city="Conakry" lat="9.500000" lng="-13.216667"/> 
+<place city="Hargeisa" lat="9.500000" lng="44.733333"/> 
+<place city="Tamale" lat="9.400000" lng="-0.000000"/> 
+<place city="Surat Thani" lat="9.133333" lng="99.650000"/> 
+<place city="Abuja" lat="9.066667" lng="7.116667"/> 
+<place city="Addis Ababa" lat="9.033333" lng="38.633333"/> 
+<place city="Panama City" lat="8.966667" lng="-79.316667"/> 
+<place city="Moundou" lat="8.566667" lng="-16.266667"/> 
+<place city="Freetown" lat="8.500000" lng="-13.216667"/> 
+<place city="Ciudad Bolívar" lat="8.200000" lng="-63.050000"/> 
+<place city="Cúcuta" lat="7.883333" lng="-72.200000"/> 
+<place city="Phuket City" lat="7.883333" lng="98.633333"/> 
+<place city="Nzérékoré" lat="7.750000" lng="-8.133333"/> 
+<place city="Majuro" lat="7.666667" lng="71.266667"/> 
+<place city="Davao City" lat="7.500000" lng="126.100000"/> 
+<place city="Ibadan" lat="7.366667" lng="3.050000"/> 
+<place city="Koror" lat="7.350000" lng="134.233333"/> 
+<place city="Hat Yai" lat="7.016667" lng="100.666667"/> 
+<place city="Palikir" lat="6.916667" lng="58.183333"/> 
+<place city="Colombo" lat="6.900000" lng="79.316667"/> 
+<place city="Sri Jayawardenapura-Kotte" lat="6.900000" lng="79.316667"/> 
+<place city="Yamoussoukro" lat="6.816667" lng="-5.083333"/> 
+<place city="Georgetown" lat="6.800000" lng="-58.966667"/> 
+<place city="Kumasi" lat="6.683333" lng="-01.016667"/> 
+<place city="Lagos" lat="6.583333" lng="3.050000"/> 
+<place city="Porto-Novo" lat="6.500000" lng="2.033333"/> 
+<place city="Cotonou" lat="6.366667" lng="2.033333"/> 
+<place city="Benin City" lat="6.316667" lng="5.083333"/> 
+<place city="Monrovia" lat="6.316667" lng="-.166667"/> 
+<place city="Medellín" lat="6.233333" lng="-.250000"/> 
+<place city="Lomé" lat="6.133333" lng="1.016667"/> 
+<place city="Alor Star" lat="6.116667" lng="100.666667"/> 
+<place city="Kota Kinabalu" lat="5.966667" lng="116.933333"/> 
+<place city="Paramaribo" lat="5.866667" lng="-.916667"/> 
+<place city="Puerto Ayacucho" lat="5.666667" lng="-.116667"/> 
+<place city="Banda Aceh" lat="5.516667" lng="95.583333"/> 
+<place city="Accra" lat="5.500000" lng="-.000000"/> 
+<place city="George Town" lat="5.416667" lng="100.666667"/> 
+<place city="Abidjan" lat="5.333333" lng="-.066667"/> 
+<place city="Ipoh" lat="4.000000" lng="101.683333"/> 
+<place city="Cayenne" lat="4.933333" lng="-.866667"/> 
+<place city="Sekondi-Takoradi" lat="4.916667" lng="-.016667"/> 
+<place city="Bandar Seri" lat="4.883333" lng="14.933333"/> 
+<place city="Port Harcourt" lat="4.750000" lng="7.116667"/> 
+<place city="Bogotá" lat="4.616667" lng="-.233333"/> 
+<place city="Miri" lat="4.383333" lng="113.883333"/> 
+<place city="Bangui" lat="4.366667" lng="18.300000"/> 
+<place city="Malé" lat="4.166667" lng="3.500000"/> 
+<place city="Douala" lat="4.050000" lng="09.150000"/> 
+<place city="Yaoundé" lat="3.866667" lng="11.183333"/> 
+<place city="Malabo" lat="3.750000" lng="8.133333"/> 
+<place city="Medan" lat="3.583333" lng="98.633333"/> 
+<place city="Santiago de" lat="3.416667" lng="-.266667"/> 
+<place city="Kuala Lumpur" lat="3.133333" lng="101.683333"/> 
+<place city="Boa Vista" lat="2.816667" lng="-.000000"/> 
+<place city="Malacca Town" lat="2.183333" lng="102.700000"/> 
+<place city="Mogadishu" lat="2.066667" lng="45.750000"/> 
+<place city="Kuching" lat="1.550000" lng="110.833333"/> 
+<place city="Johor Bahru" lat="1.483333" lng="103.716667"/> 
+<place city="South Tarawa" lat="1.316667" lng="72.966667"/> 
+<place city="Singapore" lat="1.283333" lng="103.716667"/> 
+<place city="Pekanbaru" lat="0.533333" lng="101.683333"/> 
+<place city="Libreville" lat="0.383333" lng="09.150000"/> 
+<place city="São Tomé" lat="0.333333" lng="06.100000"/> 
+<place city="Kampala" lat="0.316667" lng="32.533333"/> 
+<place city="Entebbe" lat="0.066667" lng="32.533333"/> 
+<place city="Macapá" lat="0.033333" lng="-1.050000"/> 
+<place city="Pontianak" lat="0.000000" lng="109.000000"/> 
+<place city="Quito" lat="-0.250000" lng="-.300000"/> 
+<place city="Kismayo" lat="-0.350000" lng="42.700000"/> 
+<place city="Yaren District" lat="-0.550000" lng="66.916667"/> 
+<place city="Padang" lat="-0.950000" lng="100.666667"/> 
+<place city="Balikpapan" lat="-1.250000" lng="116.933333"/> 
+<place city="Nairobi" lat="-1.283333" lng="36.600000"/> 
+<place city="Belém" lat="-1.466667" lng="-48.800000"/> 
+<place city="Kigali" lat="-1.950000" lng="30.500000"/> 
+<place city="Guayaquil" lat="-2.183333" lng="-79.316667"/> 
+<place city="São Luís" lat="-2.000000" lng="-44.000000"/> 
+<place city="Palembang" lat="-2.983333" lng="104.733333"/> 
+<place city="Manaus" lat="-3.100000" lng="-60.000000"/> 
+<place city="Bujumbura" lat="-3.383333" lng="29.483333"/> 
+<place city="Ambon City" lat="-3.700000" lng="128.133333"/> 
+<place city="Fortaleza" lat="-3.766667" lng="-38.633333"/> 
+<place city="Mombasa" lat="-4.050000" lng="39.650000"/> 
+<place city="Brazzaville" lat="-4.266667" lng="-.15250000"/> 
+<place city="Kinshasa" lat="-4.316667" lng="15.250000"/> 
+<place city="Victoria" lat="-4.616667" lng="55.916667"/> 
+<place city="Teresina" lat="-5.100000" lng="-42.700000"/> 
+<place city="Makassar" lat="-5.133333" lng="119.983333"/> 
+<place city="Imperatriz" lat="-5.000000" lng="-47.000000"/> 
+<place city="Natal" lat="-5.000000" lng="-35.000000"/> 
+<place city="Zanzibar City" lat="-6.166667" lng="39.650000"/> 
+<place city="Jakarta" lat="-6.183333" lng="106.766667"/> 
+<place city="Bogor" lat="-6.600000" lng="106.766667"/> 
+<place city="Dar es" lat="-6.800000" lng="39.650000"/> 
+<place city="Bandung" lat="-6.950000" lng="107.783333"/> 
+<place city="Semarang" lat="-6.966667" lng="110.833333"/> 
+<place city="João Pessoa" lat="-7.116667" lng="-34.850000"/> 
+<place city="Surabaya" lat="-7.233333" lng="112.866667"/> 
+<place city="Malang" lat="-7.966667" lng="112.866667"/> 
+<place city="Trujillo" lat="-8.016667" lng="-79.316667"/> 
+<place city="Recife" lat="-8.066667" lng="-34.566667"/> 
+<place city="Funafuti" lat="-8.516667" lng="179.216667"/> 
+<place city="Dili" lat="-8.566667" lng="125.083333"/> 
+<place city="Denpasar" lat="-8.650000" lng="115.916667"/> 
+<place city="Porto Velho" lat="-8.766667" lng="-63.050000"/> 
+<place city="Luanda" lat="-8.833333" lng="13.216667"/> 
+<place city="Honiara" lat="-9.466667" lng="159.816667"/> 
+<place city="Port Moresby" lat="-9.500000" lng="147.450000"/> 
+<place city="Maceió" lat="-9.000000" lng="-35.000000"/> 
+<place city="Rio Branco" lat="-9.000000" lng="-67.000000"/> 
+<place city="Palmas" lat="-10.000000" lng="-48.800000"/> 
+<place city="Aracaju" lat="-10.900000" lng="-37.033333"/> 
+<place city="Moroni" lat="-11.750000" lng="43.200000"/> 
+<place city="Sinop" lat="-11.000000" lng="-5.000000"/> 
+<place city="Lima" lat="-12.050000" lng="-77.033333"/> 
+<place city="Darwin" lat="-12.450000" lng="130.833333"/> 
+<place city="Ndola" lat="-12.966667" lng="28.633333"/> 
+<place city="Huambo" lat="-12.766667" lng="15.733333"/> 
+<place city="Mamoudzou" lat="-12.783333" lng="45.216667"/> 
+<place city="Salvador" lat="-12.966667" lng="-38.500000"/> 
+<place city="Ayacucho" lat="-13.000000" lng="-74.233333"/> 
+<place city="Apia" lat="-13.833333" lng="-171.833333"/> 
+<place city="Lilongwe" lat="-13.983333" lng="33.783333"/> 
+<place city="Pago Pago" lat="-14.266667" lng="-170.700000"/> 
+<place city="Ilhéus" lat="-14.000000" lng="-.650000"/> 
+<place city="Lusaka" lat="-15.416667" lng="28.283333"/> 
+<place city="Cuiabá" lat="-15.600000" lng="-56.083333"/> 
+<place city="Blantyre" lat="-15.666667" lng="34.966667"/> 
+<place city="Brasília" lat="-15.783333" lng="-47.900000"/> 
+<place city="Arequipa" lat="-16.400000" lng="-71.533333"/> 
+<place city="La Paz" lat="-16.500000" lng="-68.133333"/> 
+<place city="Goiânia" lat="-16.000000" lng="-.816667"/> 
+<place city="Cairns" lat="-16.950000" lng="145.750000"/> 
+<place city="Papeete" lat="-17.533333" lng="-149.566667"/> 
+<place city="Santa Cruz" lat="-17.750000" lng="-63.233333"/> 
+<place city="Port Vila" lat="-17.750000" lng="8.300000"/> 
+<place city="Livingstone" lat="-17.850000" lng="25.866667"/> 
+<place city="Harare" lat="-17.866667" lng="31.033333"/> 
+<place city="Suva" lat="-18.166667" lng="178.450000"/> 
+<place city="Arica" lat="-18.466667" lng="-70.300000"/> 
+<place city="Antananarivo" lat="-18.916667" lng="47.516667"/> 
+<place city="Sucre" lat="-19.050000" lng="-65.266667"/> 
+<place city="Townsville" lat="-19.250000" lng="146.766667"/> 
+<place city="Belo Horizonte" lat="-19.916667" lng="-43.933333"/> 
+<place city="Bulawayo" lat="-20.166667" lng="28.566667"/> 
+<place city="Port Louis" lat="-20.166667" lng="57.516667"/> 
+<place city="Iquique" lat="-20.216667" lng="-70.166667"/> 
+<place city="Port Hedland" lat="-20.300000" lng="118.600000"/> 
+<place city="Vitória" lat="-20.000000" lng="-.666667"/> 
+<place city="Campo Grande" lat="-20.000000" lng="-.900000"/> 
+<place city="Saint-Denis" lat="-20.866667" lng="55.466667"/> 
+<place city="Francistown" lat="-21.166667" lng="27.500000"/> 
+<place city="Nuku'Alofa" lat="-21.333333" lng="-5.200000"/> 
+<place city="Nouméa" lat="-22.283333" lng="-6.450000"/> 
+<place city="Calama" lat="-22.450000" lng="-68.933333"/> 
+<place city="Campinas" lat="-22.900000" lng="-47.050000"/> 
+<place city="Rio de" lat="-22.900000" lng="-43.233333"/> 
+<place city="Rockhampton" lat="-23.366667" lng="150.516667"/> 
+<place city="São Paulo" lat="-23.550000" lng="-46.633333"/> 
+<place city="Antofagasta" lat="-23.633333" lng="-70.383333"/> 
+<place city="Polokwane" lat="-23.900000" lng="29.450000"/> 
+<place city="Gaborone" lat="-24.650000" lng="25.900000"/> 
+<place city="Salta" lat="-24.783333" lng="-65.416667"/> 
+<place city="Asunción" lat="-25.266667" lng="-57.666667"/> 
+<place city="Curitiba" lat="-25.416667" lng="-49.283333"/> 
+<place city="Nelspruit" lat="-25.466667" lng="30.983333"/> 
+<place city="Pretoria" lat="-25.733333" lng="28.183333"/> 
+<place city="Mafikeng" lat="-25.850000" lng="25.633333"/> 
+<place city="Maputo" lat="-25.966667" lng="32.583333"/> 
+<place city="Johannesburg" lat="-26.133333" lng="27.900000"/> 
+<place city="Mbabane" lat="-26.316667" lng="31.133333"/> 
+<place city="San Miguel" lat="-26.833333" lng="-65.216667"/> 
+<place city="Copiapó" lat="-27.366667" lng="-70.333333"/> 
+<place city="Florianópolis" lat="-27.000000" lng="-.800000"/> 
+<place city="Brisbane" lat="-27.466667" lng="153.033333"/> 
+<place city="Gold Coast" lat="-28.000000" lng="153.416667"/> 
+<place city="Kimberley" lat="-28.750000" lng="24.766667"/> 
+<place city="Maseru" lat="-29.300000" lng="27.466667"/> 
+<place city="Pietermaritzburg" lat="-29.616667" lng="30.383333"/> 
+<place city="Durban" lat="-29.883333" lng="31.050000"/> 
+<place city="Bloemfontein" lat="-29.100000" lng="26.216667"/> 
+<place city="La Serena" lat="-29.900000" lng="-71.250000"/> 
+<place city="Porto Alegre" lat="-30.016667" lng="-51.216667"/> 
+<place city="Córdoba" lat="-31.400000" lng="-64.183333"/> 
+<place city="Pelotas" lat="-31.766667" lng="-52.350000"/> 
+<place city="Perth" lat="-31.966667" lng="115.816667"/> 
+<place city="Bhisho" lat="-32.883333" lng="27.383333"/> 
+<place city="Mendoza" lat="-32.883333" lng="-68.833333"/> 
+<place city="Newcastle" lat="-32.916667" lng="151.783333"/> 
+<place city="Rosario" lat="-32.950000" lng="-60.666667"/> 
+<place city="Valparaíso" lat="-33.050000" lng="-71.616667"/> 
+<place city="Santiago" lat="-33.450000" lng="-70.650000"/> 
+<place city="Chuí" lat="-33.000000" lng="-.883333"/> 
+<place city="Sydney" lat="-33.866667" lng="151.216667"/> 
+<place city="Cape Town" lat="-33.916667" lng="18.416667"/> 
+<place city="Port Elizabeth" lat="-33.950000" lng="25.633333"/> 
+<place city="Buenos Aires" lat="-34.666667" lng="-58.400000"/> 
+<place city="Montevideo" lat="-34.883333" lng="-56.166667"/> 
+<place city="Adelaide" lat="-34.916667" lng="138.600000"/> 
+<place city="Canberra" lat="-35.283333" lng="149.133333"/> 
+<place city="Concepción" lat="-36.833333" lng="-73.050000"/> 
+<place city="Auckland" lat="-36.850000" lng="174.783333"/> 
+<place city="Hamilton" lat="-37.783333" lng="175.283333"/> 
+<place city="Melbourne" lat="-37.816667" lng="144.966667"/> 
+<place city="Bahía Blanca" lat="-38.716667" lng="-62.266667"/> 
+<place city="Valdivia" lat="-39.666667" lng="-73.000000"/> 
+<place city="San Carlos" lat="-41.150000" lng="-71.300000"/> 
+<place city="Wellington" lat="-41.283333" lng="174.783333"/> 
+<place city="Puerto Montt" lat="-41.466667" lng="-72.933333"/> 
+<place city="Hobart" lat="-42.883333" lng="147.300000"/> 
+<place city="Trelew" lat="-43.250000" lng="-65.300000"/> 
+<place city="Christchurch" lat="-43.533333" lng="172.616667"/> 
+<place city="Puerto Aisén" lat="-45.400000" lng="-72.683333"/> 
+<place city="Coihaique" lat="-45.566667" lng="-72.066667"/> 
+<place city="Comodoro Rivadavia" lat="-45.866667" lng="-67.483333"/> 
+<place city="Dunedin" lat="-45.866667" lng="170.500000"/> 
+<place city="Invercargill" lat="-46.416667" lng="168.316667"/> 
+<place city="Río Gallegos" lat="-51.633333" lng="-69.216667"/> 
+<place city="Stanley" lat="-51.700000" lng="-57.850000"/> 
+<place city="Punta Arenas" lat="-53.166667" lng="-70.933333"/> 
+<place city="Grytviken" lat="-54.283333" lng="-36.516667"/> 
+<place city="Ushuaia" lat="-54.800000" lng="-68.300000"/> 
+<place city="Puerto Williams" lat="-54.000000" lng="-67.000000"/> 
+<place city="Puerto Toro" lat="-55.000000" lng="-.67000000"/> 
+<place city="Puerto Toro" lat="-55.000000" lng="-.67000000"/> 
+</places>

@@ -1,0 +1,2 @@
+#For Crontab
+30 * * * * /var/www/rsss/script.sh

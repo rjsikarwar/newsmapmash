@@ -1,0 +1,41 @@
+<html>
+<head>
+<script type="text/javascript">
+function initialise()
+{
+  var xmlDoc = null;
+	if(window.ActiveXObject) //for IE
+	{
+		xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+	}
+	else if(document.implementation.createDocument) //for Firefox
+	{
+		xmlDoc = document.implementation.createDocument("","",null);
+	}
+	else alert("Your browser does not support xml");
+  if(xmlDoc != null)
+	{
+		xmlDoc.async = false;
+		xmlDoc.load("oneindia-news-international");
+		var items = xmlDoc.getElementsByTagName("item");
+		for(i=0; i< items.length; i++)
+		{
+			var title = items[i].getElementsByTagName("title")[0].textContent;
+			var link = items[i].getElementsByTagName("link")[0].textContent;
+			var description = items[i].getElementsByTagName("description")[0].textContent;
+			var place = "";
+			var j=0;
+			while(description[j] != ',')
+			{
+				place += description[j];
+				j++;
+			}
+			document.write("<br>" + place  +"</br>");		
+		}
+	}
+}			
+</script>
+</head>
+<body onload="initialise()">
+</body>
+</html>

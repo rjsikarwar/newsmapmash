@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<style type="text/css">
+  html { height: 100% }
+  body { height: 100%; margin: 0; padding: 0 }
+  #map_canvas { height: 100% }
+</style>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false">
+</script>
+<script type="text/javascript">
+function initialize()
+{	
+	//var infowindow_array = new Array();
+	latlng = new google.maps.LatLng(23.5, 82.5);
+     	myOptions = {
+     		 	zoom:4,
+      			center: latlng,
+      			mapTypeId: google.maps.MapTypeId.ROADMAP
+    		    };
+	map = new google.maps.Map(document.getElementById("map_canvas"),myOptions);
+	infowindow = new google.maps.InfoWindow({ size: new google.maps.Size(50,50)}); 
+	xmlDoc = null;
+	xmlDoc2 = null;
+	if(window.ActiveXObject) //for IE
+	{
+		xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+		xmlDoc2 = new ActiveXObject("Microsoft.XMLDOM");
+	}
+	else if(document.implementation.createDocument) //for Firefox
+	{
+		xmlDoc = document.implementation.createDocument("","",null);
+		xmlDoc2 = document.implementation.createDocument("","",null);
+	}
+	else alert("Your browser does not support xml");
+	
+	if((xmlDoc != null) && (xmlDoc2 != null))
+	{
+		xmlDoc.async = false;
+		xmlDoc.load("oneindia-news-international");
+		xmlDoc2.async = false;
+		xmlDoc2.load("city_lat_lng.xml");
+		items = xmlDoc.getElementsByTagName("item");
+		
+		for(i=0; i<items.length; i++)
+		{
+			title = items[i].getElementsByTagName("title")[0].textContent;
+			link = items[i].getElementsByTagName("link")[0].textContent;
+			description = items[i].getElementsByTagName("description")[0].textContent;
+			
+			var address = "";
+			var j=0;
+			while(description[j] != ',')
+			{
+				address += description[j];
+				j++;
+			}
+			/*if(window.ActiveXObject) //for IE
+			{
+				xmlDoc2 = new ActiveXObject("Microsoft.XMLDOM");
+			}
+			else if(document.implementation.createDocument) //for Firefox
+			{
+				xmlDoc2 = document.implementation.createDocument("","",null);
+			}
+			else alert("Your browser does not support xml");*/
+	
+			
+				
+			var places = xmlDoc2.getElementsByTagName("place");
+			for(k=0; k<places.length; k++)
+			{
+				city = places[k].getAttribute("city");
+				
+				if(address == city){
+				var point = new google.maps.LatLng(parseFloat(places[k].getAttribute("lat")),parseFloat(places[k].getAttribute("lng")));
+				var marker = new google.maps.Marker({
+					position: point,
+					map: map,
+					title: "nath"});
+				marker.html = title + "<br/>" + description + "<br/><a href=" + link + " target=newtab/>see more</a>";
+				google.maps.event.addListener(marker, 'mouseover', function() 
+				{
+					infowindow.setContent(this.html);
+					infowindow.open(map,this);
+				});
+				break;
+				}
+			}
+			
+			
+		}
+	}
+}
+
+</script>
+</head>
+<body onload="initialize()">
+  <div id="map_canvas" style="width:100%; height:100%"></div>
+</body>
+</html>
+	
+	

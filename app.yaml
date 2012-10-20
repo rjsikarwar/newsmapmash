@@ -1,0 +1,22 @@
+application: newsmap-mash
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /news
+  static_dir: news
+
+- url: /images
+  static_dir: images
+  
+- url: /xml
+  static_dir: xml
+  
+- url: /js
+  static_dir: js  
+  
+
+- url: /.*
+  static_files: final4.html
+  upload: fianl.html
